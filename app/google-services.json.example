@@ -1,0 +1,24 @@
+{
+  "_comment": "Copy your Firebase project's google-services.json to app/google-services.json before building.",
+  "project_info": {
+    "project_number": "000000000000",
+    "project_id": "your-tether-firebase-project-id",
+    "storage_bucket": "your-tether-firebase-project-id.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "android_client_info": {
+          "package_name": "com.tether.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "YOUR_FIREBASE_ANDROID_API_KEY"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

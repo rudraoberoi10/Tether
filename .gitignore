@@ -1,0 +1,27 @@
+# Built application files
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# App module build outputs
+app/build/
+
+# Secrets & Firebase config (keep out of public repos)
+app/google-services.json
+*.jks
+*.keystore
+
+# Firebase CLI & Cloud Functions (Phase 6)
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+functions/node_modules/
+functions/lib/
