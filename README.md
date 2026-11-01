@@ -68,8 +68,7 @@ com.tether.app
 
 1. **Clone**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/tether-android.git
-   cd tether-android
+   git clone https://github.com/rudraoberoi10/tether
    ```
 2. **Maps key:** create a key with *Maps SDK for Android* enabled and add it to `local.properties` (this file is git-ignored):
    ```properties
